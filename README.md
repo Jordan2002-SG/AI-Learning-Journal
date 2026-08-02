@@ -28,7 +28,10 @@ What surprised me:
 - I thought AI was something that was introduced to the world in the early 2000s at the earliest. Turns out 1993 marked the start of intelligent agents.
 
 
-##08/01/2026
+##08/02/2026
 
-
-
+What I Learned:
+- Prompt Engineering is the practice of communicating effectively to the AI in order to produce a desired generative AI model.
+- Prompt engineering maximizes accuracy, reduces errors, and increases productivity.
+- Prompting techniques are blueprints for how to instruct the AI.
+-RAG is a way to retrieve information from my database. The user submits a request, the app uses RAG to search for information, RAG communicates to the database which then returns stored information. The information goes to the app which creates a prompt that is then sent to the ai model to be turnend to natrual language for the user to view.
