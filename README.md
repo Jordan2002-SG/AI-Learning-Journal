@@ -18,7 +18,7 @@ What I learned:
   
 - A training set is a collection of data used by (M)achine (L)earning to teach AI.
   
-- AI Augumentation is the AI acting as an assistant to the human. AI automation is the AI replacing the role of the human.
+- AI Auumentation is the AI acting as an assistant to the human. AI automation is the AI replacing the role of the human.
   
 - Notebook LM is for studying and research. It summarizes PDFs or large files so you can grasp concepts in a faster time.
   
@@ -35,3 +35,12 @@ What I Learned:
 - Prompt engineering maximizes accuracy, reduces errors, and increases productivity.
 - Prompting techniques are blueprints for how to instruct the AI.
 -RAG is a way to retrieve information from my database. The user submits a request, the app uses RAG to search for information, RAG communicates to the database which then returns stored information. The information goes to the app which creates a prompt that is then sent to the ai model to be turnend to natrual language for the user to view.
+
+##08/06/2026
+What I learned:
+- I was introduced to zero shot prompting (0 examples given to the LLM of desired result), one shot prompting (1 example given to the LLM of desired result), and few shot prompting (2 or more examples given to the LLM of desired result).
+- LLMs predict what word will come next in a sentence by using statistics.
+- The iterative process is: prompt, evaluate, refine prompt, repeat.
+- Multimodal model: An AI model that can accept multiple forms of input (ex:  text. video, images, etc)
+What surprised me:
+
